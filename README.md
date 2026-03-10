@@ -76,9 +76,9 @@ Repository demo source:
 
 | Cover | Two-column layout |
 | --- | --- |
-| ![Cover slide preview](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-cover.png) | ![Two-column layout preview](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-two-column.png) |
+| ![Cover slide preview](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-cover.png) | ![Two-column layout preview](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-two-column.png) |
 
-![Minimal example code slide preview](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-minimal-example.png)
+![Minimal example code slide preview](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-minimal-example.png)
 
 See [`README.zh.md`](./README.zh.md) for the main documentation and the repository demo link above for a complete sample.
 

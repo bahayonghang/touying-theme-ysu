@@ -85,9 +85,9 @@ typst compile --root . examples/beamer-ysu.typ
 
 | 封面页 | 双栏内容页 |
 | --- | --- |
-| ![封面页截图](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-cover.png) | ![双栏内容页截图](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-two-column.png) |
+| ![封面页截图](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-cover.png) | ![双栏内容页截图](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-two-column.png) |
 
-![最小示例代码页截图](https://raw.githubusercontent.com/bahayonghang/touying-theme-ysu/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-minimal-example.png)
+![最小示例代码页截图](https://raw.githubusercontent.com/bahayonghang/simply-ysu-touying/d19fe7c29f10d1b08a1148d4643c12641fa8ea3b/docs/screenshots/beamer-ysu-minimal-example.png)
 
 ## 使用约定
 
